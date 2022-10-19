@@ -1,3 +1,3 @@
 # finalpro
 This is my final project
-#project = https://kalyan565.github.io/finalpro
+#project = https://github.com/kalyan565/finalpro
